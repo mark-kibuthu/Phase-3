@@ -1,0 +1,1 @@
+Run ****python cli/main.py*** to display the menu 
